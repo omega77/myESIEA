@@ -1,6 +1,6 @@
 # myESIEA
 
-### Fonctionnalitées : 
+### Fonctionnalités : 
 
    - API RATP : Horaire du métro en partant de Pierre et Marie Curie direction La Courneuve
    - Possibiliter d'appeler des numéros prédéfinis
@@ -17,6 +17,6 @@
   
 ### Crédit : 
 
-Réalisé par Côme Piston d'Eaubonne 
-Apprenti Ingénieur ESIEA
-UFA-3A
+ Réalisé par Côme Piston d'Eaubonne 
+ Apprenti Ingénieur ESIEA
+ UFA-3A
