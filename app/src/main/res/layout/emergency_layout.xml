@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:text="@string/callParis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bParis"
+        android:layout_below="@+id/bIvry"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/callIvry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bIvry"
+        android:layout_marginTop="96dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/callPolice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bPolice"
+        android:layout_below="@+id/bParis"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/callSamu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bSamu"
+        android:layout_below="@+id/bPolice"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/callPompier"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bPompier"
+        android:layout_below="@+id/bSamu"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>

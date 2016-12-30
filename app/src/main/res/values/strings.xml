@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyESIEA  App</string>
+    <string name="action_settings">Settings</string>
+    <string name="My_notification">My notification</string>
+    <string-array name="navDrawerItems">
+        <item>Home</item>
+        <item>Leave Ivry</item>
+        <item>Emergency</item>
+    </string-array>
+
+    <string-array name="navDrawerIcons">
+        <item>@drawable/ic_info_black_24dp</item>
+        <item>@drawable/squad</item>
+        <item>@drawable/connect</item>
+    </string-array>
+
+    <string name="welcome">Welcome ! </string>
+    <string name="created">Application created by Côme Piston d\'Eaubonne</string>
+
+    <string name="callIvry">Call Campus of Ivry</string>
+    <string name="callParis">Call Campus of paris </string>
+    <string name="callSamu">Call SAMU</string>
+    <string name="callPolice">Call police</string>
+    <string name="callPompier">call fire brigade</string>
+
+    <string name="tCall">Call</string>
+    <string name="confirme">Are you Sure ? </string>
+    <string name="y">Yes</string>
+    <string name="n">No</string>
+
+    <string name="nIvry">+33 1 55 43 23 23</string>
+    <string name="nParis">+33 1 43 90 21 21</string>
+    <string name="nPolice">17</string>
+    <string name="nPompier">18</string>
+    <string name="nSAMU">15</string>
+</resources>

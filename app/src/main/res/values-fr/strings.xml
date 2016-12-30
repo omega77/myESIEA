@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">"Mon ESIEA "</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="My_notification">Ma notification</string>
+
+    <string-array name="navDrawerItems">
+        <item>Accueil</item>
+        <item>Horaire Départ Ivry</item>
+        <item>Numéro Urgence</item>
+    </string-array>
+
+    <string-array name="navDrawerIcons">
+        <item>@drawable/ic_info_black_24dp</item>
+        <item>@drawable/squad</item>
+        <item>@drawable/connect</item>
+    </string-array>
+
+    <string name="welcome">Bienvenue ! </string>
+    <string name="created">Application Créé par Côme Piston d\'Eaubonne</string>
+
+    <string name="callIvry">Appeler Le campus Ivry</string>
+    <string name="callParis">Appeler Le campus de Paris </string>
+    <string name="callSamu">Appeler Le SAMU</string>
+    <string name="callPolice">Appeler La police</string>
+    <string name="callPompier">Appeler Les pompiers</string>
+    <string name="tCall">Appeler</string>
+    <string name="confirme">Etes Vous sûr ? </string>
+    <string name="y">Oui</string>
+    <string name="n">Non</string>
+
+    <string name="nIvry">+33 1 55 43 23 23</string>
+    <string name="nParis">+33 1 43 90 21 21</string>
+    <string name="nPolice">17</string>
+    <string name="nPompier">18</string>
+    <string name="nSAMU">15</string>
+</resources>
